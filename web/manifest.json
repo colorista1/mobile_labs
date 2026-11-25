@@ -1,6 +1,6 @@
 {
-    "name": "Calculator",
-    "short_name": "Calculator",
+    "name": "flutter_converter",
+    "short_name": "flutter_converter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
