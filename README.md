@@ -1,4 +1,4 @@
-# calculator
+# flutter_converter
 
 A new Flutter project.
 

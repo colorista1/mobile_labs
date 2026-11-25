@@ -1,4 +1,4 @@
-package com.baltikateam.calculator
+package com.example.flutter_converter
 
 import io.flutter.embedding.android.FlutterActivity
 
